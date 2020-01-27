@@ -1,4 +1,4 @@
-baseURL = "https://x3rz.github.io/site"
+baseURL = "https://x3rz.github.io/site/"
 languageCode = "en"                                      # website language
 publishDir = "docs"
 defaultContentLanguage = "en"                            # [en, zh, ...] determines which i18n file to use
