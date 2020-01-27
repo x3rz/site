@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on X3RZ Blog</title>
+    <link>https://x3rz.github.io/site/posts/</link>
+    <description>Recent content in Posts on X3RZ Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2020 04:27:42 +0530</lastBuildDate>
+    
+	<atom:link href="https://x3rz.github.io/site/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic Use Links</title>
+      <link>https://x3rz.github.io/site/2020/01/basic-use-links/</link>
+      <pubDate>Wed, 01 Jan 2020 04:27:42 +0530</pubDate>
+      
+      <guid>https://x3rz.github.io/site/2020/01/basic-use-links/</guid>
+      <description>Cyber Security:(far fa-heart):</description>
+    </item>
+    
+  </channel>
+</rss>
