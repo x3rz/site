@@ -66,9 +66,9 @@ staticDir = ["static", "../assets/others"]               # static directories
   socialShare = true                                     # whether to show social share links in post page
 
                                                       #### Footer CopyRight Info
-  since = 2019                                          # Site creation time
+  #since = 2019                                          # Site creation time
   icp = ''                                               # ICP info only in China (HTML format is allowed)
-  license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+ # license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
                                                          # license info (HTML format is allowed)
   gitRepo = ""                                           # public git repo url to link lastmod git commit only then enableGitInfo is true
 
@@ -108,7 +108,7 @@ staticDir = ["static", "../assets/others"]               # static directories
   [params.social]                                        # Social Info in home page
     GitHub = "x3rz"
     Linkedin = "harsh-382840190"
-    Twitter = "Harsh0x00"
+    Twitter = "harsh0x00"
     Instagram = "h.ruminator"
     #Email = "xxxx"
     #Facebook = "xxxx"
