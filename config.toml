@@ -23,7 +23,7 @@ pygmentsCodefencesGuessSyntax = true
 staticDir = ["static", "../assets/others"]               # static directories
 
 [author]                                              #### Author Info
-  name = "X3RZ"
+  name = "x̷e̷r̴o̷z̴ "
 
 [sitemap]                                             #### Sitemap Info
   changefreq = "weekly"
@@ -109,15 +109,15 @@ staticDir = ["static", "../assets/others"]               # static directories
     GitHub = "x3rz"
     #Linkedin = ""
     Twitter = "x3rz0x00"
-    Instagram = "x3rz0x00"
+    #Instagram = "x3rz0x00"
     #Email = "xxxx"
     #Facebook = "xxxx"
-    #Telegram = "xxxx"
+    Telegram = "x3rz0x00"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
     #Youtubelegacy = "xxxx"
     #Youtubecustom = "xxxx"
-    #Youtubechannel = "xxxx"
+    Youtubechannel = "UCEPl6s8Crp3_pOKFEYBBTNw"
     #Tumblr ="xxxx"
     #Quora = "xxxx"
     #Keybase = "xxxx"
