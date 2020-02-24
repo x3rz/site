@@ -15,13 +15,12 @@
         <atom:link href="https://x3rz.github.io/site/" rel="self" type="application/rss+xml" />
         
             <item>
-                <title>Basic Use Links</title>
-                <link>https://x3rz.github.io/site/2020/01/basic-use-links/</link>
+                <title>Posts</title>
+                <link>https://x3rz.github.io/site/posts/</link>
                 <pubDate>Wed, 01 Jan 2020 04:27:42 +0530</pubDate>
                 
-                <guid>https://x3rz.github.io/site/2020/01/basic-use-links/</guid>
-                <description>&lt;p&gt;Cyber Security:(far fa-heart):&lt;/p&gt;
-</description>
+                <guid>https://x3rz.github.io/site/posts/</guid>
+                <description></description>
             </item>
         
             <item>
@@ -32,7 +31,18 @@
                 <guid>https://x3rz.github.io/site/about/</guid>
                 <description>
 
-&lt;h2 id=&#34;about-me&#34;&gt;About me?&lt;/h2&gt;
+&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
+
+&lt;p&gt;CTFs and Chill&lt;/p&gt;
+
+&lt;p&gt;In this blog you can find various challenges write-ups and as POCs you can also subscribe my youtube channel
+&lt;a href=&#34;https://www.youtube.com/channel/UCEPl6s8Crp3_pOKFEYBBTNw&#34;&gt;CyberLix&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can contact me here&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://t.me/x3rz0x00&#34;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/x3rz0x00&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
 </description>
             </item>
         
